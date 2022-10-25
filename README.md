@@ -1,4 +1,5 @@
 # CSS Exercises
+[Live Version](https://dragonfireshield.github.io/css-exercises-dfs/)
 [Exercise 1](./foundations/01-css-methods)
 [Exercise 2](./foundations/02-class-id-selectors)
 [Exercise 3](./foundations/03-grouping-selectors)
