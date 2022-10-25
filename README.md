@@ -1,12 +1,12 @@
 # CSS Exercises
-[Repo](https://github.com/DragonFireShield/css-exercises-dfs)
-[Live Version](https://dragonfireshield.github.io/css-exercises-dfs/)
-[Exercise 1](./foundations/01-css-methods)
-[Exercise 2](./foundations/02-class-id-selectors)
-[Exercise 3](./foundations/03-grouping-selectors)
-[Exercise 4](./foundations/04-chaining-selectors)
-[Exercise 5](./foundations/05-descendant-combinator)
-[Exercise 6](./foundations/06-cascade-fix)
+-[Repo](https://github.com/DragonFireShield/css-exercises-dfs)
+-[Live Version](https://dragonfireshield.github.io/css-exercises-dfs/)
+-[Exercise 1](./foundations/01-css-methods)
+-[Exercise 2](./foundations/02-class-id-selectors)
+-[Exercise 3](./foundations/03-grouping-selectors)
+-[Exercise 4](./foundations/04-chaining-selectors)
+-[Exercise 5](./foundations/05-descendant-combinator)
+-[Exercise 6](./foundations/06-cascade-fix)
  
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
 
