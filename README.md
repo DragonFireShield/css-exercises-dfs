@@ -13,6 +13,15 @@ Foundations:
 Margin and padding:
 * [Exercise 1](./margin-and-padding/01-margin-and-padding-1)
 * [Exercise 2](./margin-and-padding/02-margin-and-padding-2)
+
+Flex:
+* [Exercise 1](./flex/01-flex-center)
+* [Exercise 2](./flex/02-flex-header)
+* [Exercise 3](./flex/03-flex-header-2)
+* [Exercise 4](./flex/04-flex-information)
+* [Exercise 5](./flex/05-flex-modal)
+* [Exercise 6](./flex/06-flex-layout)
+* [Exercise 7](./flex/07-flex-layout-2)
  
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
 
